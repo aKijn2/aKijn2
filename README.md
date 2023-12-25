@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 Right now I'm studying cross-platform application development.<br>🌱 I’m currently learning<br>💬 Ask me about<br>⚡ Fun fact I like cats 
+🔭 Right now I'm studying cross-platform application development.<br>🌱 I’m currently learning JAVA and PYTHON<br>💬 Ask me about<br>⚡ Fun fact I like cats 
 
 
 ## 🌐 Socials:
