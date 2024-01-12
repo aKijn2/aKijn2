@@ -1,7 +1,5 @@
 
-![Logo](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/th5xamgrr6se0x5ro4g6.png)
-
-
+![Logo](https://github.com/aKijn2/aKijn2/raw/main/aKijn2-12-1-2024.gif)
 
 # 💫 About Me:
 🔭 Right now I'm studying cross-platform application development.
