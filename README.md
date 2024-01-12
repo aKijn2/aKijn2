@@ -1,5 +1,5 @@
 
-![Logo](https://github.com/aKijn2/aKijn2/raw/main/aKijn2-12-1-2024.gif)
+![Logo](https://github.com/aKijn2/aKijn2/raw/main/image.gif)
 
 # 💫 About Me:
 🔭 Right now I'm studying cross-platform application development.
