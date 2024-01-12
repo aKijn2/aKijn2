@@ -1,5 +1,12 @@
+
+![Logo](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/th5xamgrr6se0x5ro4g6.png)
+
+
+
 # 💫 About Me:
-🔭 Right now I'm studying cross-platform application development.<br>🌱 I’m currently learning JAVA and PYTHON<br>💬 Ask me about<br>⚡ Fun fact I like cats 
+🔭 Right now I'm studying cross-platform application development.
+<br>🌱 I’m currently learning JAVA and PYTHON
+<br>⚡ Fun fact I like cats 
 
 
 ## 🌐 Socials:
@@ -17,19 +24,12 @@
 ![Java](https://img.shields.io/badge/java-%23007396.svg?style=for-the-badge&logo=java&logoColor=white)
 
 # 📊 GitHub Stats:
+###
+
 <div align="center">
-
-  <img src="https://github-readme-stats.vercel.app/api?username=aKijn2&theme=default&hide_border=false&include_all_commits=true&count_private=false" width="45%" align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aKijn2&theme=default&hide_border=false&include_all_commits=true&count_private=false&layout=compact" width="45%">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aKijn2&theme=default&hide_border=false" width="45%" align="center">
-
+  <img src="https://github-readme-stats.vercel.app/api?username=maurodesouza&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=maurodesouza&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=aKijn2&theme=flat&no-frame=false&no-bg=false&margin-w=4)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=aKijn2&limit=5&theme=flat&combine_all_yearly_contributions=true)
 
 ### 😂 Random Dev Meme
 <img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
@@ -39,6 +39,3 @@
 
   ## 💰 You can help me by Donating
   [![Patreon](https://img.shields.io/badge/Patreon-F96854?style=for-the-badge&logo=patreon&logoColor=white)](https://patreon.com/MrKinderPatreon) 
-
-  
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
