@@ -4,8 +4,6 @@
 # 💫 About Me:
 🔭 Right now I'm studying cross-platform application development.
 <br>🌱 I’m currently learning JAVA and PYTHON
-<br>⚡ Fun fact I like cats 
-
 
 ## 🌐 Socials:
 [![Codepen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/Mrkinder) 
@@ -29,7 +27,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=aKijn2&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
-### 😂 Random Dev Meme
+### 😂 Random dev meme
 <img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
 
 ---
