@@ -2,8 +2,7 @@
 ![Logo](https://github.com/aKijn2/aKijn2/raw/main/myProfile.gif)
 
 # 💫 About Me:
-🔭 Right now I'm studying cross-platform application development.
-<br>🌱 I’m currently learning JAVA and PYTHON
+🔭 Learning, playing, and growing.
 
 ## 🌐 Socials:
 [![Codepen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/Mrkinder) 
