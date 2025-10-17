@@ -65,11 +65,5 @@
 ---
 
 <p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=aKijn2&icon=0&color=12" alt="Profile Views" />
-</p>
-
----
-
-<p align="center">
   <i>"Siuuuuuuuuuu"</i>
 </p>
