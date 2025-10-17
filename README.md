@@ -1,11 +1,12 @@
 ![Logo](https://github.com/aKijn2/aKijn2/raw/main/myProfile.gif)
 
-# 👋 Hey, I’m MrKinder  
+# 👋 Hey, I'm MrKinder  
 
 ## 💫 About Me  
 🔭 Always **learning, building, and experimenting**.  
-🎮 Love mixing **creativity with code**.  
+🎮 Love mixing **creativity with code** and playing video games.  
 🚀 Exploring new tools, languages, and ideas.  
+🎯 Passionate about **gaming** and **software development**.  
 
 ---
 
@@ -17,12 +18,17 @@
 
 ## 💻 Tech Stack  
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)  
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)  
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)  
+![Java](https://img.shields.io/badge/java-%23007396.svg?style=for-the-badge&logo=java&logoColor=white)  
+![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)  
+![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)  
 ![Lua](https://img.shields.io/badge/lua-%232C2D72.svg?style=for-the-badge&logo=lua&logoColor=white)  
+![Odoo](https://img.shields.io/badge/Odoo-714B67?style=for-the-badge&logo=odoo&logoColor=white)  
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)  
 ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white)  
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)  
 ![MySQL](https://img.shields.io/badge/mysql-%2300000f.svg?style=for-the-badge&logo=mysql&logoColor=white)  
-![Java](https://img.shields.io/badge/java-%23007396.svg?style=for-the-badge&logo=java&logoColor=white)  
 
 ---
 
@@ -34,15 +40,4 @@
 
 ---
 
-## 🎭 Fun Zone  
-😂 Random Dev Meme  
-<img src="https://randommeme-five.vercel.app/" width="400px"/>  
-
----
-
-## 💖 Support My Work  
-[![Patreon](https://img.shields.io/badge/Patreon-F96854?style=for-the-badge&logo=patreon&logoColor=white)](https://patreon.com/MrKinderPatreon)  
-
----
-
-[![](https://visitcount.itsvg.in/api?id=aKijn2&icon=0&color=12)](https://visitcount.itsvg.in)  
+[![](https://visitcount.itsvg.in/api?id=aKijn2&icon=0&color=12)](https://visitcount.itsvg.in)
