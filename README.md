@@ -61,8 +61,11 @@ I am a passionate developer who loves exploring the intersection of **design** a
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=aKijn2&show_icons=true&count_private=true&theme=transparent&hide_border=true&title_color=white&text_color=9e9e9e&icon_color=white" height="150" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=aKijn2&layout=compact&langs_count=6&theme=transparent&hide_border=true&title_color=white&text_color=9e9e9e" height="150" alt="Top Languages" />
+  <!-- Main Stats (Using a mirror server) -->
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=aKijn2&show_icons=true&count_private=true&theme=transparent&hide_border=true&title_color=white&text_color=9e9e9e&icon_color=white" height="150" alt="GitHub Stats" />
+  
+  <!-- Top Languages (Using a mirror server) -->
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=aKijn2&layout=compact&langs_count=6&theme=transparent&hide_border=true&title_color=white&text_color=9e9e9e" height="150" alt="Top Languages" />
 </div>
 
 <br />
