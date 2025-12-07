@@ -20,17 +20,27 @@
 
 <br />
 
-### <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30"> About Me
+<!-- CENTERED ABOUT ME -->
+<h3 align="center">About Me</h3>
 
-I am a passionate developer who loves exploring the intersection of **design** and **logic**. I'm constantly learning new tools and languages to turn creative ideas into functional software.
+<div align="center">
+  <p>
+    I am a passionate developer who loves exploring the intersection of <b>design</b> and <b>logic</b>. <br>
+    I'm constantly learning new tools and languages to turn creative ideas into functional software.
+  </p>
+</div>
 
-- 🔭 I’m currently experimenting with **Odoo & Docker**.
-- 🎮 Passionate about gaming and game mechanics.
-- 🎨 I strive for minimalism in code and design.
+<!-- I kept the list left-aligned so it is readable, but centered the block -->
+<div align="center">
+  🔭 I’m currently experimenting with <b>Odoo & Docker</b>.<br>
+  🎮 Passionate about gaming and game mechanics.<br>
+  🎨 I strive for minimalism in code and design.
+</div>
 
----
+<br />
 
-### 🛠 Tech Stack
+<!-- CENTERED TECH STACK -->
+<h3 align="center">🛠 Tech Stack</h3>
 
 <div align="center">
 
@@ -58,13 +68,11 @@ I am a passionate developer who loves exploring the intersection of **design** a
 
 <br />
 
-### 📊 GitHub Stats
+<!-- CENTERED GITHUB STATS -->
+<h3 align="center">📊 GitHub Stats</h3>
 
 <div align="center">
-  <!-- Main Stats (Using a mirror server) -->
   <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=aKijn2&show_icons=true&count_private=true&theme=transparent&hide_border=true&title_color=white&text_color=9e9e9e&icon_color=white" height="150" alt="GitHub Stats" />
-  
-  <!-- Top Languages (Using a mirror server) -->
   <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=aKijn2&layout=compact&langs_count=6&theme=transparent&hide_border=true&title_color=white&text_color=9e9e9e" height="150" alt="Top Languages" />
 </div>
 
