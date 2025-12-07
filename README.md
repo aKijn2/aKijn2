@@ -1,41 +1,72 @@
-<h1 align="center">MrKinder</h1>
+<div align="center">
 
-<p align="center">
-  <img src="https://github.com/aKijn2/aKijn2/raw/main/myProfile.gif" width="100%" style="border-radius: 10px;" />
-</p>
+  <img src="https://github.com/aKijn2/aKijn2/raw/main/myProfile.gif" width="200" />
 
-<p align="center">
-  <em>Creativity meets code — and a touch of curiosity.</em>
-</p>
+  # Hey, I'm MrKinder
 
-<p align="center">
-  <a href="https://codepen.io/Mrkinder" style="text-decoration:none;">
-    <img src="https://img.shields.io/badge/Codepen-111?style=flat-square&logo=codepen&logoColor=white" />
+  <p>
+    <b>Developer • Designer • Gamer</b><br>
+    <i>Blending creativity with code to build unique digital experiences.</i>
+  </p>
+
+  <a href="https://codepen.io/Mrkinder">
+    <img src="https://img.shields.io/badge/CodePen-000000?style=for-the-badge&logo=codepen&logoColor=white" height="30" />
   </a>
-  <a href="https://twitter.com/XMrKinder" style="text-decoration:none;">
-    <img src="https://img.shields.io/badge/Twitter-111?style=flat-square&logo=x&logoColor=white" />
+  <a href="https://twitter.com/XMrKinder">
+    <img src="https://img.shields.io/badge/X (Twitter)-000000?style=for-the-badge&logo=x&logoColor=white" height="30" />
   </a>
-</p>
+
+</div>
+
+<br />
+
+### <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30"> About Me
+
+I am a passionate developer who loves exploring the intersection of **design** and **logic**. I'm constantly learning new tools and languages to turn creative ideas into functional software.
+
+- 🔭 I’m currently experimenting with **Odoo & Docker**.
+- 🎮 Passionate about gaming and game mechanics.
+- 🎨 I strive for minimalism in code and design.
 
 ---
 
-### 💻 Stack
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,js,py,java,cs,php,lua&theme=dark" />
-    <br>
-    <img src="https://skillicons.dev/icons?i=bootstrap,docker,mysql,vscode,github,linux&theme=dark" />
-  </a>
-</p>
+### 🛠 Tech Stack
 
-<!-- Note: I used generic Linux icon for Apache/Odoo as SkillIcons is specific, 
-but it looks cleaner. If you prefer the text badges, stick to Option 1. -->
+<div align="center">
 
-### 📈 Metrics
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=aKijn2&show_icons=true&count_private=true&theme=graywhite&hide_border=true" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=aKijn2&layout=compact&langs_count=6&theme=graywhite&hide_border=true" height="150" />
-</p>
+  <!-- Languages -->
+  <img src="https://img.shields.io/badge/HTML5-181717?style=flat&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-181717?style=flat&logo=javascript&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-181717?style=flat&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-181717?style=flat&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/C%23-181717?style=flat&logo=c-sharp&logoColor=white" />
+  <img src="https://img.shields.io/badge/PHP-181717?style=flat&logo=php&logoColor=white" />
+  <img src="https://img.shields.io/badge/Lua-181717?style=flat&logo=lua&logoColor=white" />
+  
+  <br>
 
-<p align="center">⬇</p>
-<p align="center"><i>"Siuuuuuuuuuu"</i></p>
+  <!-- Tools -->
+  <img src="https://img.shields.io/badge/Bootstrap-181717?style=flat&logo=bootstrap&logoColor=white" />
+  <img src="https://img.shields.io/badge/Odoo-181717?style=flat&logo=odoo&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-181717?style=flat&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Apache-181717?style=flat&logo=apache&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-181717?style=flat&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/VS%20Code-181717?style=flat&logo=visual-studio-code&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" />
+
+</div>
+
+<br />
+
+### 📊 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=aKijn2&show_icons=true&count_private=true&theme=transparent&hide_border=true&title_color=white&text_color=9e9e9e&icon_color=white" height="150" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=aKijn2&layout=compact&langs_count=6&theme=transparent&hide_border=true&title_color=white&text_color=9e9e9e" height="150" alt="Top Languages" />
+</div>
+
+<br />
+
+<div align="center">
+  <code>"Siuuuuuuuuuu"</code>
+</div>
