@@ -12,9 +12,6 @@
   <a href="https://codepen.io/Mrkinder">
     <img src="https://img.shields.io/badge/CodePen-000000?style=for-the-badge&logo=codepen&logoColor=white" height="30" />
   </a>
-  <a href="https://twitter.com/XMrKinder">
-    <img src="https://img.shields.io/badge/X (Twitter)-000000?style=for-the-badge&logo=x&logoColor=white" height="30" />
-  </a>
 
 </div>
 
