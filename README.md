@@ -1,24 +1,23 @@
 <div align="center">
 
-  <img src="https://github.com/aKijn2/aKijn2/raw/main/myProfile.gif" width="200" />
+  <img src="https://github.com/aKijn2/aKijn2/raw/main/myProfile.gif" width="200" style="border-radius: 50%;" />
 
-  # Hey, I'm MrKinder
+  <!-- SURPRISE: Dynamic Typing Effect -->
+  <br/>
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=F7F7F7&center=true&vCenter=true&width=435&lines=Hey%2C+I'm+Asa;Developer+.+Gamer+.+OpenMinded" alt="Typing SVG" />
+  </a>
 
   <p>
-    <b>Developer • Designer • Gamer</b><br>
     <i>Blending creativity with code to build unique digital experiences.</i>
   </p>
-
-  <a href="https://codepen.io/Mrkinder">
-    <img src="https://img.shields.io/badge/CodePen-000000?style=for-the-badge&logo=codepen&logoColor=white" height="30" />
-  </a>
 
 </div>
 
 <br />
 
 <!-- CENTERED ABOUT ME -->
-<h3 align="center">About Me</h3>
+<h3 align="center">⚡ About Me</h3>
 
 <div align="center">
   <p>
@@ -27,9 +26,8 @@
   </p>
 </div>
 
-<!-- I kept the list left-aligned so it is readable, but centered the block -->
 <div align="center">
-  🔭 I’m currently experimenting with <b>Odoo & Docker</b>.<br>
+  🚀 Solid experience deploying solutions with <b>Odoo & Docker</b>.<br>
   🎮 Passionate about gaming and game mechanics.<br>
   🎨 I strive for minimalism in code and design.
 </div>
@@ -42,23 +40,28 @@
 <div align="center">
 
   <!-- Languages -->
-  <img src="https://img.shields.io/badge/HTML5-181717?style=flat&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-181717?style=flat&logo=javascript&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-181717?style=flat&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Java-181717?style=flat&logo=openjdk&logoColor=white" />
-  <img src="https://img.shields.io/badge/C%23-181717?style=flat&logo=c-sharp&logoColor=white" />
-  <img src="https://img.shields.io/badge/PHP-181717?style=flat&logo=php&logoColor=white" />
-  <img src="https://img.shields.io/badge/Lua-181717?style=flat&logo=lua&logoColor=white" />
-  
+  <img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white" />
+  <img src="https://img.shields.io/badge/C%23-239120?style=flat&logo=c-sharp&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white" />
+  <img src="https://img.shields.io/badge/Lua-2C2D72?style=flat&logo=lua&logoColor=white" />
   <br>
 
-  <!-- Tools -->
-  <img src="https://img.shields.io/badge/Bootstrap-181717?style=flat&logo=bootstrap&logoColor=white" />
-  <img src="https://img.shields.io/badge/Odoo-181717?style=flat&logo=odoo&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-181717?style=flat&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/Apache-181717?style=flat&logo=apache&logoColor=white" />
-  <img src="https://img.shields.io/badge/MySQL-181717?style=flat&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/VS%20Code-181717?style=flat&logo=visual-studio-code&logoColor=white" />
+  <!-- Mobile & Desktop Development -->
+  <img src="https://img.shields.io/badge/.NET_MAUI-512BD4?style=flat&logo=dotnet&logoColor=white" />
+  <img src="https://img.shields.io/badge/Android_Studio-3DDC84?style=flat&logo=android-studio&logoColor=white" />
+  <br>
+
+  <!-- Web & Tools -->
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white" />
+  <img src="https://img.shields.io/badge/Odoo-714B67?style=flat&logo=odoo&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Apache-D22128?style=flat&logo=apache&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white" />
   <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" />
 
 </div>
@@ -76,5 +79,5 @@
 <br />
 
 <div align="center">
-  <code>"Siuuuuuuuuuu"</code>
+  <h3><i>"Siuuuuuuuuuu"</i></h3>
 </div>
