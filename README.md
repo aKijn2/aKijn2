@@ -2,10 +2,10 @@
 
   <img src="https://github.com/aKijn2/aKijn2/raw/main/myProfile.gif" width="200" style="border-radius: 50%;" />
 
-  <!-- SURPRISE: Dynamic Typing Effect (Color RED #E63946 for both modes) -->
+  <!-- SURPRISE: Dynamic Typing Effect (Fixed Width) -->
   <br/>
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=E63946&center=true&vCenter=true&width=435&lines=Hey%2C+I'm+Asa;Developer+.+Gamer+.+OpenMinded" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=E63946&center=true&vCenter=true&width=650&lines=Hey%2C+I'm+Asa;Developer+.+Gamer+.+OpenMinded" alt="Typing SVG" />
   </a>
 
   <p>
