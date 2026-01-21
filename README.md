@@ -74,17 +74,3 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=aKijn2&bg_color=00000000&color=000000&line=000000&point=000000&area=false&hide_border=true" width="100%" alt="Activity Graph" />
 
   <br/>
-  
-  <!-- Top Lenguajes: Texto Negro -->
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=aKijn2&layout=compact&langs_count=8&theme=buefy&hide_border=true&title_color=000000&text_color=333333&card_width=400" height="150" alt="Top Languages" />
-  
-  <!-- Racha (Streak): Texto Negro -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aKijn2&theme=default&background=FFFFFF&border=FFFFFF&stroke=000000&ring=000000&fire=000000&currStreakNum=000000&currStreakLabel=333333&sideNums=333333&sideLabels=333333&dates=333333&hide_border=true" height="150" alt="Streak" />
-
-</div>
-
-<br />
-
-<div align="center" style="font-family: monospace; color: #000000;">
-  <code>Console.WriteLine("Back door..");</code>
-</div>
