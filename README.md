@@ -26,7 +26,7 @@
   </p>
   
   <p>
-    <b>[ FOCUS: Odoo, Docker & Mobile Dev ]</b>
+    <b>[ FOCUS: Odoo, Docker, .NET MAUI & Mobile Dev ]</b>
   </p>
 </div>
 
