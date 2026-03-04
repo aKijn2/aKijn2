@@ -26,7 +26,7 @@
   </p>
   
   <p>
-    <b style="color: #1F2328;">[ FOCUS: Odoo, Docker, .NET MAUI & Mobile Dev ]</b>
+    <b style="color: #1F2328;">[ FOCUS: Odoo(ERP), Docker, .NET MAUI & Mobile Dev ]</b>
   </p>
 </div>
 
