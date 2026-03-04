@@ -6,34 +6,34 @@
   <br/>
   <br/>
 
-  <!-- EFECTO DE ESCRITURA: CORREGIDO A NEGRO PARA QUE SE VEA -->
+  <!-- EFECTO DE ESCRITURA: Adaptado al color de texto principal de GitHub Light (#1F2328) -->
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=000000&center=true&vCenter=true&width=650&lines=Hey%2C+I'm+Asa;Developer+.+Gamer+.+OpenMinded;Blending+Creativity+with+Code" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=1F2328&center=true&vCenter=true&width=650&lines=Hey%2C+I'm+Asa;Developer+.+Gamer+.+OpenMinded;Blending+Creativity+with+Code" alt="Typing SVG" />
   </a>
 
 </div>
 
 <br />
 
-<!-- SECCIÓN: SOBRE MÍ (Estilo Terminal / Negro) -->
-<h3 align="center" style="font-family: monospace; color: #000000;">// ABOUT_ME</h3>
+<!-- SECCIÓN: SOBRE MÍ (Color de texto principal de GitHub Light) -->
+<h3 align="center" style="font-family: monospace; color: #1F2328;">// ABOUT_ME</h3>
 
-<div align="center" style="font-family: monospace; color: #333333;">
+<div align="center" style="font-family: monospace; color: #656D76;">
   <p>
-    > Exploring the intersection of <b>DESIGN</b> and <b>LOGIC</b>.<br>
+    > Exploring the intersection of <b style="color: #1F2328;">DESIGN</b> and <b style="color: #1F2328;">LOGIC</b>.<br>
     > Turning creative ideas into functional software solutions.<br>
     > Striving for minimalism in code.
   </p>
   
   <p>
-    <b>[ FOCUS: Odoo, Docker, .NET MAUI & Mobile Dev ]</b>
+    <b style="color: #1F2328;">[ FOCUS: Odoo, Docker, .NET MAUI & Mobile Dev ]</b>
   </p>
 </div>
 
 <br />
 
-<!-- TECH STACK (Badges Negros sólidos para alto contraste) -->
-<h3 align="center" style="font-family: monospace; color: #000000;">// TECH_STACK</h3>
+<!-- TECH STACK (Badges mantenidos en negro para alto contraste con el fondo claro) -->
+<h3 align="center" style="font-family: monospace; color: #1F2328;">// TECH_STACK</h3>
 
 <div align="center">
 
@@ -65,12 +65,13 @@
 
 <br />
 
-<!-- ESTADÍSTICAS: Texto Negro y Líneas Negras -->
-<h3 align="center" style="font-family: monospace; color: #000000;">// CONTRIBUTION_DATA</h3>
+<!-- ESTADÍSTICAS: Adaptadas a la paleta "Light Default" -->
+<h3 align="center" style="font-family: monospace; color: #1F2328;">// CONTRIBUTION_DATA</h3>
 
 <div align="center">
   
-  <!-- Gráfico de Actividad: Línea Negra sobre fondo transparente -->
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=aKijn2&bg_color=00000000&color=000000&line=000000&point=000000&area=false&hide_border=true" width="100%" alt="Activity Graph" />
+  <!-- Gráfico de Actividad: Texto gris oscuro de GitHub, Líneas y puntos en azul de GitHub (#0969DA) -->
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=aKijn2&bg_color=00000000&color=1F2328&line=0969DA&point=0969DA&area=false&hide_border=true" width="100%" alt="Activity Graph" />
 
   <br/>
+</div>
