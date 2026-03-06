@@ -32,6 +32,27 @@
 
 <br />
 
+<br />
+
+<!-- SECCIÓN: WORKFLOW AUTOMATION -->
+<h3 align="center" style="font-family: monospace; color: #1F2328;">// WORKFLOW_AUTOMATION</h3>
+
+<div align="center" style="font-family: monospace; color: #656D76;">
+  <p>
+    Currently learning <b style="color: #1F2328;">n8n</b> — a powerful workflow automation tool.
+  </p>
+  
+  <p>
+    <b style="color: #1F2328;">[ CURRENTLY EXPLORING: API integrations · automation pipelines · self-hosted workflows ]</b>
+  </p>
+</div>
+
+<div align="center">
+  <img src="https://img.shields.io/badge/n8n-000000?style=for-the-badge&logo=n8n&logoColor=white" />
+</div>
+
+<br />
+
 <!-- TECH STACK (Badges mantenidos en negro para alto contraste con el fondo claro) -->
 <h3 align="center" style="font-family: monospace; color: #1F2328;">// TECH_STACK</h3>
 
