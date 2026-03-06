@@ -1,15 +1,13 @@
 <div align="center">
 
   <!-- IMAGEN DE PERFIL (Mantenemos tu gif con filtro de grises) -->
-  <img src="https://github.com/aKijn2/aKijn2/raw/main/myProfile.gif" width="200" style="border-radius: 50%; filter: grayscale(100%);" />
+  <img src="https://github.com/aKijn2/aKijn2/raw/main/logo.png" width="300" style="border-radius: 50%; filter: grayscale(100%);" />
 
   <br/>
   <br/>
 
   <!-- EFECTO DE ESCRITURA: Adaptado al color de texto principal de GitHub Light (#1F2328) -->
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=1F2328&center=true&vCenter=true&width=650&lines=Hey%2C+I'm+Asa;Developer+.+Gamer+.+OpenMinded;Blending+Creativity+with+Code" alt="Typing SVG" />
-  </a>
+  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F70000&center=true&width=435&lines=Hey%2C+my+name+is+Achraf.)](https://git.io/typing-svg)
 
 </div>
 
@@ -92,7 +90,7 @@
 <div align="center">
   
   <!-- Gráfico de Actividad: Texto gris oscuro de GitHub, Líneas y puntos en azul de GitHub (#0969DA) -->
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=aKijn2&bg_color=00000000&color=1F2328&line=0969DA&point=0969DA&area=false&hide_border=true" width="100%" alt="Activity Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=aKijn2&bg_color=00000000&color=F70000FF&line=FFFFFFFF&point=F70000FF&area=false&hide_border=true" width="100%" alt="Activity Graph" />
 
   <br/>
 </div>
